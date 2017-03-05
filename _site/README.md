@@ -1,1 +1,0 @@
-## Personal web presentation & blog
