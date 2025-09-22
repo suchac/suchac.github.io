@@ -20,10 +20,7 @@ description: Personal resume and blog
 avatar: author.jpg
 email: suchac.dev@gmail.com
 github: suchac
-instagram: suchaac
 twitter: Suchac15
-linkedin: petrsuchy
-google_analytics: UA-92996473-1
 
 # needed for travis-ci build
 exclude: [vendor]
