@@ -14,8 +14,8 @@ safe: true
 #Comment out if you don't want disqus 
 url: http://suchac.dev
 baseurl: /
-title: Petr Suchy
-author: Petr Suchy
+title: Suchac.dev
+author: Suchac
 description: Personal resume and blog
 avatar: author.jpg
 email: suchac.dev@gmail.com
