@@ -12,19 +12,18 @@ safe: true
 
 # edit here to achieve your personal greatness
 #Comment out if you don't want disqus 
-url: http://suchac.github.io/
+url: http://suchac.dev
 baseurl: /
 title: Petr Suchy
 author: Petr Suchy
 description: Personal resume and blog
 avatar: author.jpg
-email: info@petrsuchy.com
-github: suchac # username
+email: suchac.dev@gmail.com
+github: suchac
 facebook: psuchy15
 instagram: suchaac
 twitter: Suchac15
 linkedin: petrsuchy
-youtube: Pestret
 #stackoverflow: users/2114610/suchac   #e.g: users/2735833/proton1h1
 #disqus: username
 google_analytics: UA-92996473-1
