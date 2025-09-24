@@ -12,15 +12,15 @@ safe: true
 
 # edit here to achieve your personal greatness
 #Comment out if you don't want disqus 
-url: http://suchac.dev
+url: https://suchac.dev
 baseurl: /
 title: Suchac.dev
 author: Suchac
-description: Personal resume and blog
+description: Personal site
 avatar: author.jpg
-email: suchac.dev@gmail.com
+# email: suchac.dev@gmail.com
 github: suchac
-twitter: Suchac15
+twitter: suchac_dev
 
 # needed for travis-ci build
 exclude: [vendor]
