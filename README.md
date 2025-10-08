@@ -3,6 +3,9 @@
 Personal website and blog built with Jekyll and hosted on GitHub Pages.
 
 🔗 **Live site**: [https://suchac.dev](https://suchac.dev)
+🔗 **Alternate domain**: [https://petrsuchy.com](https://petrsuchy.com) (redirects to suchac.dev)
+
+Both domains are configured via Cloudflare.
 
 ## About
 
