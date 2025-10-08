@@ -16,8 +16,9 @@ url: https://suchac.dev
 baseurl: /
 title: Suchac.dev
 author: Suchac
-description: Personal site
+description: Software Developer, world traveller, photographer. Personal site and blog about programming, tech, and travel.
 avatar: author.jpg
+keywords: software developer, programming, web development, travel, photography
 email: suchac.dev@gmail.com
 github: suchac
 twitter: suchac_dev
