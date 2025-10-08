@@ -14,18 +14,18 @@ This is a Jekyll-based personal website and blog hosted on GitHub Pages at https
 
 ### Local Development
 ```bash
-# Install Jekyll and dependencies (if not already installed)
-gem install jekyll bundler jekyll-paginate
+# Install dependencies (if not already installed)
+bundle install
 
 # Serve the site locally (configured to run on port 3000)
-jekyll serve
+bundle exec jekyll serve
 # Site will be available at http://localhost:3000
 ```
 
 ### Build
 ```bash
 # Build the site (output goes to _site/ directory)
-jekyll build
+bundle exec jekyll build
 ```
 
 ## Architecture

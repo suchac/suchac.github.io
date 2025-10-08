@@ -23,14 +23,14 @@ This is a personal portfolio and blog featuring:
 ### Installation
 
 ```bash
-gem install jekyll bundler jekyll-paginate
+bundle install
 ```
 
 ### Local Development
 
 ```bash
 # Serve the site locally
-jekyll serve
+bundle exec jekyll serve
 
 # Site will be available at http://localhost:3000
 ```
@@ -39,7 +39,7 @@ jekyll serve
 
 ```bash
 # Build the site (output goes to _site/)
-jekyll build
+bundle exec jekyll build
 ```
 
 ## Project Structure
