@@ -177,9 +177,17 @@ body {
 }
 
 
-/* Footer 
+/* Footer
 -------------------------------------------------- */
 
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #fff;
+  padding: 20px 0;
+  border-top: 1px solid #e7e7e7;
+}
 .footer {
   text-decoration: none !important;
 }
@@ -193,5 +201,5 @@ div.footer{
 /*.footer {
   height: 50px;
   padding-bottom: 15px;
-  
+
 }*/
