@@ -24,4 +24,13 @@ github: suchac
 twitter: suchac_dev
 
 # needed for travis-ci build
-exclude: [vendor]
+exclude: [
+  vendor,
+  README.md,
+  CLAUDE.md,
+  Gemfile,
+  Gemfile.lock,
+  .gitignore,
+  .DS_Store,
+  .claude
+]
