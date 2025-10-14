@@ -216,12 +216,11 @@ h5 a:hover {
 -------------------------------------------------- */
 
 footer {
-    position: fixed;
-    bottom: 0;
     width: 100%;
     background-color: #fff;
     padding: 5px 0;
     border-top: 1px solid #e7e7e7;
+    margin-top: 40px;
 }
 .footer {
     text-decoration: none !important;
@@ -232,9 +231,8 @@ footer {
 div.footer {
     border-bottom: 5px solid #337ab7;
 }
-/* Set the fixed height of the footer here */
-/*.footer {
-  height: 50px;
-  padding-bottom: 15px;
 
-}*/
+/* Add padding to body to ensure footer has space */
+#wrap {
+    padding-bottom: 20px;
+}
